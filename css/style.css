@@ -141,6 +141,7 @@ header {
         flex: row;
         align-items: center;
         flex-flow: nowrap;
+        align-items: flex-end;
     }
 
     .card {
